@@ -1,0 +1,18 @@
+{
+  "ultima_actualizacion": "20/11/2026 16:03 UTC",
+  "total": 1,
+  "actas": [
+    {
+      "id": "cb124123e0f4",
+      "titulo": "¿Cómo realizar una denuncia?",
+      "categoria": "CIOT",
+      "fecha": "01/01/2020",
+      "fecha_iso": "2020-01-01",
+      "anio": "2020",
+      "archivo": "2020-01-01-como-realizar-una-denuncia.pdf",
+      "url": "https://organizacionupcnanses-hub.github.io/actas-paritarias-anses/pdfs/2020-01-01-como-realizar-una-denuncia.pdf",
+      "sha256": "cb124123e0f4bb7220ecc8a4b9dccc9d721580cb21007640d8eae67167c7ffd8",
+      "source_url": "https://secasfpi.org.ar/wp-content/uploads/2020/08/Ciot-Como-realizar-una-denuncia.pdf"
+    }
+  ]
+}
