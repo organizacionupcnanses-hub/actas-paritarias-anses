@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "20/11/2026 16:22 UTC",
-  "total": 93,
+  "ultima_actualizacion": "21/11/2026 17:53 UTC",
+  "total": 102,
   "actas": [
     {
       "id": "0268392a3a13",
@@ -366,6 +366,17 @@
       "sha256": "6075fd09f4c2971fc1037a2e946fcf63856d11cc46961c704bade6905fb2176e"
     },
     {
+      "id": "43b7c7a24929",
+      "titulo": "Acta Paritaria 28 10 2022",
+      "categoria": "Paritarias",
+      "fecha": "28/10/2022",
+      "fecha_iso": "2022-10-28",
+      "anio": "2022",
+      "archivo": "2022-10-28-acta-paritaria-28-10-2022.pdf",
+      "url": "https://organizacionupcnanses-hub.github.io/actas-paritarias-anses/pdfs/2022-10-28-acta-paritaria-28-10-2022.pdf",
+      "sha256": "43b7c7a24929c870c99a1d9ea571996ed0e23f291e3efaaab2a26c6738f93cd8"
+    },
+    {
       "id": "a9edb2a25cbf",
       "titulo": "Acta COPECA 28-10-2022",
       "categoria": "COPECA",
@@ -399,6 +410,17 @@
       "sha256": "f9442c0b84a201932a7f2943883697f9d32f7761564e257746af6bdbda038024"
     },
     {
+      "id": "9af6b58f2e10",
+      "titulo": "Acta Paritaria 16 06 2022",
+      "categoria": "Paritarias",
+      "fecha": "16/06/2022",
+      "fecha_iso": "2022-06-16",
+      "anio": "2022",
+      "archivo": "2022-06-16-acta-paritaria-16-06-2022.pdf",
+      "url": "https://organizacionupcnanses-hub.github.io/actas-paritarias-anses/pdfs/2022-06-16-acta-paritaria-16-06-2022.pdf",
+      "sha256": "9af6b58f2e102a449adb4a45e6df1574f80bc42201b73e444674e8a879ffd7c9"
+    },
+    {
       "id": "f4a76042fd1e",
       "titulo": "Acta paritaria 11 de Mayo de 2022 (2)",
       "categoria": "Paritarias",
@@ -419,6 +441,17 @@
       "archivo": "2022-05-11-acta-paritaria-11-de-mayo-2022.pdf",
       "url": "https://organizacionupcnanses-hub.github.io/actas-paritarias-anses/pdfs/2022-05-11-acta-paritaria-11-de-mayo-2022.pdf",
       "sha256": "29364b23b83fef1213a6fb3f11cb730106b970c08e1e365d1d3ede078355c9c2"
+    },
+    {
+      "id": "c2840980c353",
+      "titulo": "Acta Paritaria 11 05 2022",
+      "categoria": "Paritarias",
+      "fecha": "11/05/2022",
+      "fecha_iso": "2022-05-11",
+      "anio": "2022",
+      "archivo": "2022-05-11-acta-paritaria-11-05-2022.pdf",
+      "url": "https://organizacionupcnanses-hub.github.io/actas-paritarias-anses/pdfs/2022-05-11-acta-paritaria-11-05-2022.pdf",
+      "sha256": "c2840980c353cd603487e4dd181a1b4e25b478aa4b18863f13e8094df5003b9d"
     },
     {
       "id": "7adedb87dbfb",
@@ -487,6 +520,28 @@
       "sha256": "9240ec2fb082b184f812020d8eb807259def642ff6afff582a497c684371fe0e"
     },
     {
+      "id": "deed4a0a4216",
+      "titulo": "Acta Paritaria 12 11 2021",
+      "categoria": "Paritarias",
+      "fecha": "12/11/2021",
+      "fecha_iso": "2021-11-12",
+      "anio": "2021",
+      "archivo": "2021-11-12-acta-paritaria-12-11-2021.pdf",
+      "url": "https://organizacionupcnanses-hub.github.io/actas-paritarias-anses/pdfs/2021-11-12-acta-paritaria-12-11-2021.pdf",
+      "sha256": "deed4a0a4216ad68275a182a1d866853579a94cb4523a0732d81252879b8d1f3"
+    },
+    {
+      "id": "8c6effef7993",
+      "titulo": "Acta Paritaria 16 06 2021",
+      "categoria": "Paritarias",
+      "fecha": "16/06/2021",
+      "fecha_iso": "2021-06-16",
+      "anio": "2021",
+      "archivo": "2021-06-16-acta-paritaria-16-06-2021.pdf",
+      "url": "https://organizacionupcnanses-hub.github.io/actas-paritarias-anses/pdfs/2021-06-16-acta-paritaria-16-06-2021.pdf",
+      "sha256": "8c6effef79939f34fa3a7a031416c6a125055c031d718695ea91be8b3f5fce8b"
+    },
+    {
       "id": "fb1754f12cd9",
       "titulo": "acta cymat 17-03-2021 v1",
       "categoria": "CyMAT",
@@ -496,6 +551,28 @@
       "archivo": "2021-03-17-acta-cymat-17-03-2021-v1.pdf",
       "url": "https://organizacionupcnanses-hub.github.io/actas-paritarias-anses/pdfs/2021-03-17-acta-cymat-17-03-2021-v1.pdf",
       "sha256": "fb1754f12cd9cfdf91a5ff7bac53530874950cef97c65a54069c6c68c5586816"
+    },
+    {
+      "id": "06844be7c031",
+      "titulo": "Acta Paritaria 14 01 21",
+      "categoria": "Paritarias",
+      "fecha": "14/01/2021",
+      "fecha_iso": "2021-01-14",
+      "anio": "2021",
+      "archivo": "2021-01-14-acta-paritaria-14-01-21.pdf",
+      "url": "https://organizacionupcnanses-hub.github.io/actas-paritarias-anses/pdfs/2021-01-14-acta-paritaria-14-01-21.pdf",
+      "sha256": "06844be7c031489afec79122515c905f1a2b8012a7f43fafb61bc6d7d894c0c3"
+    },
+    {
+      "id": "8b6f73abd620",
+      "titulo": "Acta Complementaria 14 01 21",
+      "categoria": "Paritarias",
+      "fecha": "14/01/2021",
+      "fecha_iso": "2021-01-14",
+      "anio": "2021",
+      "archivo": "2021-01-14-acta-complementaria-14-01-21.pdf",
+      "url": "https://organizacionupcnanses-hub.github.io/actas-paritarias-anses/pdfs/2021-01-14-acta-complementaria-14-01-21.pdf",
+      "sha256": "8b6f73abd620b01bf5884a76f431855e1c8aa6b8a78c0dc2ef718e8c6a54cca3"
     },
     {
       "id": "16f4e7a5acd4",
@@ -540,6 +617,28 @@
       "archivo": "2020-10-19-acta-aumento-ur-corrimiento-de-categoria.pdf",
       "url": "https://organizacionupcnanses-hub.github.io/actas-paritarias-anses/pdfs/2020-10-19-acta-aumento-ur-corrimiento-de-categoria.pdf",
       "sha256": "bb56714984be616628acfcce85912b30326ff855e725bae91dbe28e6dba339ec"
+    },
+    {
+      "id": "4f6dee648098",
+      "titulo": "Acta Paritaria 16 10 2020",
+      "categoria": "Paritarias",
+      "fecha": "16/10/2020",
+      "fecha_iso": "2020-10-16",
+      "anio": "2020",
+      "archivo": "2020-10-16-acta-paritaria-16-10-2020.pdf",
+      "url": "https://organizacionupcnanses-hub.github.io/actas-paritarias-anses/pdfs/2020-10-16-acta-paritaria-16-10-2020.pdf",
+      "sha256": "4f6dee64809881dd74eaf4b113326585e2dfae32f4d0cac461a33e2fac3fd42c"
+    },
+    {
+      "id": "cb1770c8f6c9",
+      "titulo": "Acta Complementaria 16 10 20",
+      "categoria": "Paritarias",
+      "fecha": "16/10/2020",
+      "fecha_iso": "2020-10-16",
+      "anio": "2020",
+      "archivo": "2020-10-16-acta-complementaria-16-10-20.pdf",
+      "url": "https://organizacionupcnanses-hub.github.io/actas-paritarias-anses/pdfs/2020-10-16-acta-complementaria-16-10-20.pdf",
+      "sha256": "cb1770c8f6c9ecfa51ad98c59e0d090bb1448016ceb148689df3945a87aedf8d"
     },
     {
       "id": "27db284f1d0f",
