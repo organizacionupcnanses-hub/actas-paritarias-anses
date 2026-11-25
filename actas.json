@@ -1,6 +1,6 @@
 {
-  "ultima_actualizacion": "24/11/2026 21:00 UTC",
-  "total": 102,
+  "ultima_actualizacion": "25/11/2026 20:22 UTC",
+  "total": 105,
   "actas": [
     {
       "id": "0268392a3a13",
@@ -256,6 +256,17 @@
       "sha256": "40293f34ba1bc9d708407d28d655fa2ddfc7b24fd77a28aef7556c7660f072fe"
     },
     {
+      "id": "c0603fa39a68",
+      "titulo": "Acta Complementaria 22 09 2023",
+      "categoria": "Paritarias",
+      "fecha": "22/09/2023",
+      "fecha_iso": "2023-09-22",
+      "anio": "2023",
+      "archivo": "2023-09-22-acta-complementaria-22-09-2023.pdf",
+      "url": "https://organizacionupcnanses-hub.github.io/actas-paritarias-anses/pdfs/2023-09-22-acta-complementaria-22-09-2023.pdf",
+      "sha256": "c0603fa39a681a3cfacfaddab88abfd00465f777541bf54f33c2db3e94742efc"
+    },
+    {
       "id": "45e725318341",
       "titulo": "Acta Paritaria 23-06-2023",
       "categoria": "Paritarias",
@@ -278,6 +289,17 @@
       "sha256": "45838454e7005094887df22f4f7c286cc2982af4194b3beaa59992f0494acec9"
     },
     {
+      "id": "caba3e0d7c55",
+      "titulo": "Acta Complementaria 23 06 2023",
+      "categoria": "Paritarias",
+      "fecha": "23/06/2023",
+      "fecha_iso": "2023-06-23",
+      "anio": "2023",
+      "archivo": "2023-06-23-acta-complementaria-23-06-2023.pdf",
+      "url": "https://organizacionupcnanses-hub.github.io/actas-paritarias-anses/pdfs/2023-06-23-acta-complementaria-23-06-2023.pdf",
+      "sha256": "caba3e0d7c55cc9a21bdc20241e3a46a1802e302f8e47b1659de7592827e1d10"
+    },
+    {
       "id": "2e5d2bbfff2e",
       "titulo": "Acta Paritaria 28 04 2023",
       "categoria": "Paritarias",
@@ -287,6 +309,17 @@
       "archivo": "2023-04-28-acta-paritaria-28-04-2023.pdf",
       "url": "https://organizacionupcnanses-hub.github.io/actas-paritarias-anses/pdfs/2023-04-28-acta-paritaria-28-04-2023.pdf",
       "sha256": "2e5d2bbfff2efa3fc0b06cfc17fa87117e761257c535e26ab9101cb1a37bfd0c"
+    },
+    {
+      "id": "fafa937c11e1",
+      "titulo": "Acta Complementaria 28 04 2023",
+      "categoria": "Paritarias",
+      "fecha": "28/04/2023",
+      "fecha_iso": "2023-04-28",
+      "anio": "2023",
+      "archivo": "2023-04-28-acta-complementaria-28-04-2023.pdf",
+      "url": "https://organizacionupcnanses-hub.github.io/actas-paritarias-anses/pdfs/2023-04-28-acta-complementaria-28-04-2023.pdf",
+      "sha256": "fafa937c11e11d7c7f2aac4fa17078980008098d208a10aa50747d2e622723dd"
     },
     {
       "id": "35847a9c0a42",
